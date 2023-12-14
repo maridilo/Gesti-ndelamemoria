@@ -1,0 +1,3 @@
+C:/Users/ACER/CLionProjects/untitled2/Gesti-ndelamemoria/cmake-build-debug/CMakeFiles/Gesti_ndelamemoria.dir
+C:/Users/ACER/CLionProjects/untitled2/Gesti-ndelamemoria/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ACER/CLionProjects/untitled2/Gesti-ndelamemoria/cmake-build-debug/CMakeFiles/rebuild_cache.dir
